@@ -1,0 +1,21 @@
+# data & artifacts
+data/*
+outputs/*
+*.dvc.lock
+
+# notebooks & logs
+.ipynb_checkpoints/
+__pycache__/
+*.log
+
+# env
+.venv/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+!.gitkeep

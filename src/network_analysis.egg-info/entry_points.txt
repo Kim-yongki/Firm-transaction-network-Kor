@@ -1,0 +1,2 @@
+[console_scripts]
+network-analysis = network_analysis.cli.main:main
